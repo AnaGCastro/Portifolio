@@ -1,7 +1,4 @@
 
-
-# 💙 Portifolio
-
 <div align="center">
 <img src="https://github.com/AnaGCastro/portfolio/assets/101370736/0adf873b-f8fc-4d43-99ff-7e7f54da3202">
 
@@ -10,7 +7,7 @@
 <img src="https://github.com/AnaGCastro/portfolio/assets/101370736/0d8f69e4-81d6-4b51-9344-e069d80c3227">
 </div>
 
-<h1 align="center">Portfólio - Alisson Lima </h1>
+<h1 align="center">💙 Portifolio  - Ana Paula Gonçalves de Castro</h1>
 
 <p align="center">
  <a href="#-features">Features</a> •
